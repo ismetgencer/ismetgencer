@@ -19,6 +19,7 @@
 * 🏛️ **Historical Artifact Recognition System:** AI-powered offline-first mobile app for museums using MobileNetV3, local SQLite databases, and self-healing telemetry.
 * 👕 **YIKA:** Graduation project; a comprehensive mobile application for laundry pickup and delivery management built with Flutter.
 * 🖼️ **Museum Data Scraper:** Python-based data curation bot that extracted metadata and images for 10,000+ artifacts.
+* 🚗 **Araba Dünyası:** Dynamic web gallery demonstrating client-server architecture with a Python (Flask) REST API backend and a responsive JavaScript/HTML frontend.
 * 🍔 **Restaurant Order System:** Web-based application with a Python backend and JavaScript frontend for managing orders.
 
 📫 **Connect with me:**
